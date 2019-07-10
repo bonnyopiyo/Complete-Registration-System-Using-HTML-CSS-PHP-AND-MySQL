@@ -1,0 +1,47 @@
+body{
+    background-color: gray;
+    background: url("resources/img1.jpeg");
+    background-position: center;
+    background-size: cover;
+
+}
+.save_div{
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+.inputs{
+    width: 120%;
+    margin-bottom: 10px;
+    height: 25px;
+
+}
+.sbtn{
+    width: 60%;
+    margin-left: 30%;
+    margin-right: 30%;
+}
+.sbtn:hover{
+    background-color: blue;
+    color: white;
+    border-radius: 5px;
+}
+.vlink{
+    width: 50%;
+    margin-right: 35%;
+    margin-left: 35%;
+    text-decoration: none;
+    color: blue;
+}
+.adlink{
+    float: right;
+}
+.mdttl{
+color: #bf4229;
+}
+.deleting{
+    color: #3132bf;
+}
+
